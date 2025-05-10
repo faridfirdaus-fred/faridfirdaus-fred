@@ -55,8 +55,12 @@
 - 🧠 **[MLFQ Simulator](https://github.com/faridfirdaus-fred/mlfq-simulator)**  
   Operating system process scheduler simulator using Multi-level Feedback Queue.
 
-- 🖼️ **[Steganify](https://github.com/faridfirdaus-fred/steganify)**  
-  DCT-based image steganography tool with AES encryption and password protection.
+- 📈 **[Prediction Rice Price (Frontend)](https://github.com/faridfirdaus-fred/prediction-rice-price-frontend)**  
+  A web app using interpolation methods and BPS API to estimate future rice prices.
 
 ---
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=faridfirdaus-fred&label=Profile%20Views&color=0&icon=5&pretty=true" alt="visit counter"/>
+</p>
