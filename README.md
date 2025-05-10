@@ -60,7 +60,3 @@
 
 ---
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=faridfirdaus-fred&label=Profile%20Views&color=0&icon=5&pretty=true" alt="visit counter"/>
-</p>
