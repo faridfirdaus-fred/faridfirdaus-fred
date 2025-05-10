@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Farid Firdaus
 
 🎓 Computer Science Student at Universitas Siliwangi  
-🌱 Learning and building with **Next.js**, **Laravel**, and modern web technologies  
+🌱 Learning and building modern web technologies  
 📬 Reach me at: fdiraf77@gmail.com  
 
 ---
