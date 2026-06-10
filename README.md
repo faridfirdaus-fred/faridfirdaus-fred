@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/rid.fir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/farid-firdaus/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat\&logo=tiktok\&logoColor=white)](https://tiktok.com/@fredemarco)
-[![X](https://img.shields.io/badge/X-000000?style=flat\&logo=x\&logoColor=white)](https://x.com/faridfred)
+[![X](https://img.shields.io/badge/X-000000?style=flat\&logo=x\&logoColor=white)](https://x.com/faredrid)
 
 ---
 
