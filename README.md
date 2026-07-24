@@ -2,7 +2,6 @@
 
 🎓 Computer Science Student at Universitas Siliwangi
 🌱 Learning web development and cybersecurity
-🔐 Interested in network security and penetration testing
 📬 Reach me at: [faridfirdaus165@gmail.com](mailto:faridfirdaus165@gmail.com)
 
 ---
