@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student at Universitas Siliwangi
 🌱 Learning web development and cybersecurity
-📬 Reach me at: [faridfirdaus165@gmail.com](mailto:faridfirdaus165@gmail.com)
+📬 Reach me at: [faridfirdaus.mail@gmail.com](mailto:faridfirdaus.mail@gmail.com)
 
 ---
 
